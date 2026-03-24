@@ -36,8 +36,8 @@ int main() {
 ```
 
 ## OUTPUT:
+<img width="1920" height="1139" alt="C-1" src="https://github.com/user-attachments/assets/e1ac74ad-0a95-45a1-ad51-443ce55fe20f" />
 
-![alt text](C-1.png)
 
 ## RESULT:
 
