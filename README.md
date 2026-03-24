@@ -81,7 +81,8 @@ int main() {
 
 # OUTPUT:
 
-![alt text](C-2.png)
+<img width="1920" height="1142" alt="C-2" src="https://github.com/user-attachments/assets/1735031f-2d68-4324-b3f6-9c2eba509c0d" />
+
 
 # RESULT:
 
@@ -128,7 +129,8 @@ int main() {
 
 ## OUTPUT:
 
-![alt text](C-3.png)
+<img width="1920" height="1140" alt="C-3" src="https://github.com/user-attachments/assets/557dd3f9-4a5f-4520-999c-40bef3034020" />
+
 
 ## RESULT:
 
@@ -169,8 +171,9 @@ int main() {
 ```
 
 ## OUTPUT:
+<img width="1920" height="1142" alt="C-4" src="https://github.com/user-attachments/assets/1a6eaab5-952a-4db1-ab02-ded151d22332" />
 
-![alt text](C-4.png)
+
 
 ## RESULT:
 
@@ -237,8 +240,9 @@ int main() {
 ```
 
 ## OUTPUT:
+<img width="1920" height="1140" alt="C-5" src="https://github.com/user-attachments/assets/bc46dc23-83ca-4402-9808-f8395fa81ccf" />
 
-![alt text](C-5.png)
+
 
 ## RESULT:
 
